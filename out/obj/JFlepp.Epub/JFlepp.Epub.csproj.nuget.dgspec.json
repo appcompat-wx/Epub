@@ -1,0 +1,101 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\AppBuild\\Epub\\JFlepp.Epub\\JFlepp.Epub.csproj": {}
+  },
+  "projects": {
+    "C:\\AppBuild\\Epub\\JFlepp.Epub\\JFlepp.Epub.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\AppBuild\\Epub\\JFlepp.Epub\\JFlepp.Epub.csproj",
+        "projectName": "JFlepp.Epub",
+        "projectPath": "C:\\AppBuild\\Epub\\JFlepp.Epub\\JFlepp.Epub.csproj",
+        "packagesPath": "C:\\Users\\appcompat\\.nuget\\packages\\",
+        "outputPath": "C:\\AppBuild\\Epub\\out\\obj\\JFlepp.Epub\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\appcompat\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://grpc.jfrog.io/grpc/api/nuget/v3/grpc-nuget-dev": {},
+          "https://pkgs.dev.azure.com/dnceng/internal/_packaging/10.0.103-servicing.26075.103-shipping/nuget/v3/index.json": {},
+          "https://pkgs.dev.azure.com/dnceng/internal/_packaging/11.0.100-preview.1.26081.107-shipping/nuget/v3/index.json": {},
+          "https://pkgs.dev.azure.com/dnceng/internal/_packaging/8.0.418-servicing.26072.3-shipping/nuget/v3/index.json": {},
+          "https://pkgs.dev.azure.com/dnceng/internal/_packaging/9.0.311-servicing.26068.14-shipping/nuget/v3/index.json": {},
+          "https://pkgs.dev.azure.com/dnceng/public/_packaging/dotnet10/nuget/v3/index.json": {},
+          "https://pkgs.dev.azure.com/dnceng/public/_packaging/dotnet11/nuget/v3/index.json": {},
+          "https://pkgs.dev.azure.com/dnceng/public/_packaging/dotnet6/nuget/v3/index.json": {},
+          "https://pkgs.dev.azure.com/dnceng/public/_packaging/dotnet7/nuget/v3/index.json": {},
+          "https://pkgs.dev.azure.com/dnceng/public/_packaging/dotnet8/nuget/v3/index.json": {},
+          "https://pkgs.dev.azure.com/dnceng/public/_packaging/dotnet9/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "11.0.100"
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "dependencies": {
+            "Microsoft.CodeQuality.Analyzers": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.9.6, )"
+            },
+            "Microsoft.NetCore.Analyzers": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.9.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\11.0.100-preview.1.26081.107\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

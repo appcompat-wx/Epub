@@ -1,0 +1,172 @@
+{
+  "version": 2,
+  "dgSpecHash": "yyrlJmvNWr8=",
+  "success": true,
+  "projectFilePath": "C:\\AppBuild\\Epub\\JFlepp.Epub.Viewer\\JFlepp.Epub.Viewer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\appcompat\\.nuget\\packages\\cef.redist.x64\\75.1.14\\cef.redist.x64.75.1.14.nupkg.sha512",
+    "C:\\Users\\appcompat\\.nuget\\packages\\cef.redist.x86\\75.1.14\\cef.redist.x86.75.1.14.nupkg.sha512",
+    "C:\\Users\\appcompat\\.nuget\\packages\\cefsharp.common\\75.1.142\\cefsharp.common.75.1.142.nupkg.sha512",
+    "C:\\Users\\appcompat\\.nuget\\packages\\cefsharp.wpf\\75.1.142\\cefsharp.wpf.75.1.142.nupkg.sha512",
+    "C:\\Users\\appcompat\\.nuget\\packages\\microsoft.codequality.analyzers\\2.9.6\\microsoft.codequality.analyzers.2.9.6.nupkg.sha512",
+    "C:\\Users\\appcompat\\.nuget\\packages\\microsoft.netcore.analyzers\\2.9.6\\microsoft.netcore.analyzers.2.9.6.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1903",
+      "level": "Warning",
+      "message": "Package 'CefSharp.Common' 75.1.142 has a known high severity vulnerability, https://github.com/advisories/GHSA-4c29-gfrp-g6x9",
+      "projectPath": "C:\\AppBuild\\Epub\\JFlepp.Epub.Viewer\\JFlepp.Epub.Viewer.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\AppBuild\\Epub\\JFlepp.Epub.Viewer\\JFlepp.Epub.Viewer.csproj",
+      "libraryId": "CefSharp.Common",
+      "targetGraphs": [
+        "net11.0-windows"
+      ]
+    },
+    {
+      "code": "NU1903",
+      "level": "Warning",
+      "message": "Package 'CefSharp.Common' 75.1.142 has a known high severity vulnerability, https://github.com/advisories/GHSA-gvqv-779r-4jgp",
+      "projectPath": "C:\\AppBuild\\Epub\\JFlepp.Epub.Viewer\\JFlepp.Epub.Viewer.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\AppBuild\\Epub\\JFlepp.Epub.Viewer\\JFlepp.Epub.Viewer.csproj",
+      "libraryId": "CefSharp.Common",
+      "targetGraphs": [
+        "net11.0-windows"
+      ]
+    },
+    {
+      "code": "NU1904",
+      "level": "Warning",
+      "message": "Package 'CefSharp.Common' 75.1.142 has a known critical severity vulnerability, https://github.com/advisories/GHSA-j646-gj5p-p45g",
+      "projectPath": "C:\\AppBuild\\Epub\\JFlepp.Epub.Viewer\\JFlepp.Epub.Viewer.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\AppBuild\\Epub\\JFlepp.Epub.Viewer\\JFlepp.Epub.Viewer.csproj",
+      "libraryId": "CefSharp.Common",
+      "targetGraphs": [
+        "net11.0-windows"
+      ]
+    },
+    {
+      "code": "NU1903",
+      "level": "Warning",
+      "message": "Package 'CefSharp.Common' 75.1.142 has a known high severity vulnerability, https://github.com/advisories/GHSA-m7mf-48hp-5qmr",
+      "projectPath": "C:\\AppBuild\\Epub\\JFlepp.Epub.Viewer\\JFlepp.Epub.Viewer.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\AppBuild\\Epub\\JFlepp.Epub.Viewer\\JFlepp.Epub.Viewer.csproj",
+      "libraryId": "CefSharp.Common",
+      "targetGraphs": [
+        "net11.0-windows"
+      ]
+    },
+    {
+      "code": "NU1902",
+      "level": "Warning",
+      "message": "Package 'CefSharp.Common' 75.1.142 has a known moderate severity vulnerability, https://github.com/advisories/GHSA-pv36-h7jh-qm62",
+      "projectPath": "C:\\AppBuild\\Epub\\JFlepp.Epub.Viewer\\JFlepp.Epub.Viewer.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\AppBuild\\Epub\\JFlepp.Epub.Viewer\\JFlepp.Epub.Viewer.csproj",
+      "libraryId": "CefSharp.Common",
+      "targetGraphs": [
+        "net11.0-windows"
+      ]
+    },
+    {
+      "code": "NU1903",
+      "level": "Warning",
+      "message": "Package 'CefSharp.Common' 75.1.142 has a known high severity vulnerability, https://github.com/advisories/GHSA-vv6j-ww6x-54gx",
+      "projectPath": "C:\\AppBuild\\Epub\\JFlepp.Epub.Viewer\\JFlepp.Epub.Viewer.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\AppBuild\\Epub\\JFlepp.Epub.Viewer\\JFlepp.Epub.Viewer.csproj",
+      "libraryId": "CefSharp.Common",
+      "targetGraphs": [
+        "net11.0-windows"
+      ]
+    },
+    {
+      "code": "NU1903",
+      "level": "Warning",
+      "message": "Package 'CefSharp.Common' 75.1.142 has a known high severity vulnerability, https://github.com/advisories/GHSA-x7fx-mcc9-27j7",
+      "projectPath": "C:\\AppBuild\\Epub\\JFlepp.Epub.Viewer\\JFlepp.Epub.Viewer.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\AppBuild\\Epub\\JFlepp.Epub.Viewer\\JFlepp.Epub.Viewer.csproj",
+      "libraryId": "CefSharp.Common",
+      "targetGraphs": [
+        "net11.0-windows"
+      ]
+    },
+    {
+      "code": "NU1903",
+      "level": "Warning",
+      "message": "Package 'CefSharp.Wpf' 75.1.142 has a known high severity vulnerability, https://github.com/advisories/GHSA-f87w-3j5w-v58p",
+      "projectPath": "C:\\AppBuild\\Epub\\JFlepp.Epub.Viewer\\JFlepp.Epub.Viewer.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\AppBuild\\Epub\\JFlepp.Epub.Viewer\\JFlepp.Epub.Viewer.csproj",
+      "libraryId": "CefSharp.Wpf",
+      "targetGraphs": [
+        "net11.0-windows"
+      ]
+    },
+    {
+      "code": "NU1903",
+      "level": "Warning",
+      "message": "Package 'CefSharp.Wpf' 75.1.142 has a known high severity vulnerability, https://github.com/advisories/GHSA-gvqv-779r-4jgp",
+      "projectPath": "C:\\AppBuild\\Epub\\JFlepp.Epub.Viewer\\JFlepp.Epub.Viewer.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\AppBuild\\Epub\\JFlepp.Epub.Viewer\\JFlepp.Epub.Viewer.csproj",
+      "libraryId": "CefSharp.Wpf",
+      "targetGraphs": [
+        "net11.0-windows"
+      ]
+    },
+    {
+      "code": "NU1903",
+      "level": "Warning",
+      "message": "Package 'CefSharp.Wpf' 75.1.142 has a known high severity vulnerability, https://github.com/advisories/GHSA-m7mf-48hp-5qmr",
+      "projectPath": "C:\\AppBuild\\Epub\\JFlepp.Epub.Viewer\\JFlepp.Epub.Viewer.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\AppBuild\\Epub\\JFlepp.Epub.Viewer\\JFlepp.Epub.Viewer.csproj",
+      "libraryId": "CefSharp.Wpf",
+      "targetGraphs": [
+        "net11.0-windows"
+      ]
+    },
+    {
+      "code": "NU1902",
+      "level": "Warning",
+      "message": "Package 'CefSharp.Wpf' 75.1.142 has a known moderate severity vulnerability, https://github.com/advisories/GHSA-pv36-h7jh-qm62",
+      "projectPath": "C:\\AppBuild\\Epub\\JFlepp.Epub.Viewer\\JFlepp.Epub.Viewer.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\AppBuild\\Epub\\JFlepp.Epub.Viewer\\JFlepp.Epub.Viewer.csproj",
+      "libraryId": "CefSharp.Wpf",
+      "targetGraphs": [
+        "net11.0-windows"
+      ]
+    },
+    {
+      "code": "NU1903",
+      "level": "Warning",
+      "message": "Package 'CefSharp.Wpf' 75.1.142 has a known high severity vulnerability, https://github.com/advisories/GHSA-vv6j-ww6x-54gx",
+      "projectPath": "C:\\AppBuild\\Epub\\JFlepp.Epub.Viewer\\JFlepp.Epub.Viewer.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\AppBuild\\Epub\\JFlepp.Epub.Viewer\\JFlepp.Epub.Viewer.csproj",
+      "libraryId": "CefSharp.Wpf",
+      "targetGraphs": [
+        "net11.0-windows"
+      ]
+    },
+    {
+      "code": "NU1903",
+      "level": "Warning",
+      "message": "Package 'CefSharp.Wpf' 75.1.142 has a known high severity vulnerability, https://github.com/advisories/GHSA-x7fx-mcc9-27j7",
+      "projectPath": "C:\\AppBuild\\Epub\\JFlepp.Epub.Viewer\\JFlepp.Epub.Viewer.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\AppBuild\\Epub\\JFlepp.Epub.Viewer\\JFlepp.Epub.Viewer.csproj",
+      "libraryId": "CefSharp.Wpf",
+      "targetGraphs": [
+        "net11.0-windows"
+      ]
+    }
+  ]
+}

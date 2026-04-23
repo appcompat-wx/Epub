@@ -1,0 +1,41 @@
+# Starter pipeline
+# Start with a minimal pipeline that you can customize to build and deploy your code.
+# Add steps that build, run tests, deploy, and more:
+# https://aka.ms/yaml
+
+variables:
+  configuration: debug
+  platform: x64
+
+trigger:
+- master
+
+pool:
+  vmImage: 'windows-2019'
+
+steps:
+- task: PowerShell@2
+  name: "Build"
+  inputs:
+    filePath: '$(Build.Repository.LocalPath)/build/scripts/Build.ps1'
+    arguments: '$true "$(Build.BinariesDirectory)"'
+
+- task: PowerShell@2
+  name: "Test"
+  inputs:
+    filePath: '$(Build.Repository.LocalPath)/build/scripts/Test.ps1'
+    arguments: '$true "$(Build.BinariesDirectory)"'
+
+- task: PublishTestResults@2
+  displayName: "Publish Test Results"
+  inputs:
+    testResultsFormat: 'VSTest'
+    testResultsFiles: '*.trx'
+    searchFolder: '$(Build.BinariesDirectory)/testresults/'
+    mergeTestResults: true
+
+- task: PublishCodeCoverageResults@1
+  displayName: 'Publish Coverage'
+  inputs:
+    codeCoverageTool: Cobertura
+    summaryFileLocation: '$(Build.BinariesDirectory)/testresults/unittest-coverage.cobertura.xml'

@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v11.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v11.0": {
+      "JFlepp.Epub.Viewer/1.0.0.0": {
+        "dependencies": {
+          "JFlepp.Epub": "1.0.0"
+        },
+        "runtime": {
+          "JFlepp.Epub.Viewer.dll": {}
+        }
+      },
+      "JFlepp.Epub/1.0.0": {
+        "runtime": {
+          "JFlepp.Epub.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "JFlepp.Epub.Viewer/1.0.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "JFlepp.Epub/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

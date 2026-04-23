@@ -1,0 +1,9 @@
+C:\AppBuild\Epub\out\bin\JFlepp.Epub.deps.json
+C:\AppBuild\Epub\out\bin\JFlepp.Epub.dll
+C:\AppBuild\Epub\out\bin\JFlepp.Epub.pdb
+C:\AppBuild\Epub\out\obj\JFlepp.Epub\x64\Release\JFlepp.Epub.GeneratedMSBuildEditorConfig.editorconfig
+C:\AppBuild\Epub\out\obj\JFlepp.Epub\x64\Release\JFlepp.Epub.AssemblyInfoInputs.cache
+C:\AppBuild\Epub\out\obj\JFlepp.Epub\x64\Release\JFlepp.Epub.AssemblyInfo.cs
+C:\AppBuild\Epub\out\obj\JFlepp.Epub\x64\Release\JFlepp.Epub.csproj.CoreCompileInputs.cache
+C:\AppBuild\Epub\out\obj\JFlepp.Epub\x64\Release\JFlepp.Epub.dll
+C:\AppBuild\Epub\out\obj\JFlepp.Epub\x64\Release\JFlepp.Epub.pdb

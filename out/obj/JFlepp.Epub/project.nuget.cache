@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "828Rdvjf99A=",
+  "success": true,
+  "projectFilePath": "C:\\AppBuild\\Epub\\JFlepp.Epub\\JFlepp.Epub.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\appcompat\\.nuget\\packages\\microsoft.codequality.analyzers\\2.9.6\\microsoft.codequality.analyzers.2.9.6.nupkg.sha512",
+    "C:\\Users\\appcompat\\.nuget\\packages\\microsoft.netcore.analyzers\\2.9.6\\microsoft.netcore.analyzers.2.9.6.nupkg.sha512"
+  ],
+  "logs": []
+}
